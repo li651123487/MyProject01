@@ -1,0 +1,4 @@
+#Wed Oct 25 19:28:47 CST 2017
+base.0=E\:\\stop\\android studio project\\MyProject01\\MVPDemo1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\stop\\android studio project\\MyProject01\\MVPDemo1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

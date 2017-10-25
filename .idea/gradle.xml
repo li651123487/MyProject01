@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\stop\studiojieya\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CallBack" />
+            <option value="$PROJECT_DIR$/Exam_3" />
+            <option value="$PROJECT_DIR$/Exam_3te" />
+            <option value="$PROJECT_DIR$/LoginDemo" />
+            <option value="$PROJECT_DIR$/LoginDemo1" />
+            <option value="$PROJECT_DIR$/MVCdemo" />
+            <option value="$PROJECT_DIR$/MVPDemo1" />
+            <option value="$PROJECT_DIR$/MVPDemo2" />
+            <option value="$PROJECT_DIR$/MVPTest" />
+            <option value="$PROJECT_DIR$/MVPdemo" />
+            <option value="$PROJECT_DIR$/MyFrame" />
+            <option value="$PROJECT_DIR$/MyFrame01" />
+            <option value="$PROJECT_DIR$/MyMap" />
+            <option value="$PROJECT_DIR$/MyMap1" />
+            <option value="$PROJECT_DIR$/RecyclerViewDemo" />
+            <option value="$PROJECT_DIR$/SCANZXing" />
+            <option value="$PROJECT_DIR$/TouchImageView" />
+            <option value="$PROJECT_DIR$/TouchImageViewTest" />
+            <option value="$PROJECT_DIR$/ZXingStudy" />
+            <option value="$PROJECT_DIR$/ZoomImageView" />
+            <option value="$PROJECT_DIR$/ZoomImageViewTest" />
+            <option value="$PROJECT_DIR$/animator" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/exam_3test" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/propertyanimatordemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

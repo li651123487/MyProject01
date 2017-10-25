@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 50,
+                        "endOffset": 63
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 62,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 62,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 72,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 72,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 76,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 76,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 70,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 70,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 64,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 64,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 68,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 68,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 62,
+                    "endOffset": 582
+                },
+                "from": {
+                    "file": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 62,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 587,
+                    "endColumn": 58,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 58,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 56,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 68,
+                        "endColumn": 56,
+                        "endOffset": 120
+                    }
+                }
+            }
+        ]
+    }
+]

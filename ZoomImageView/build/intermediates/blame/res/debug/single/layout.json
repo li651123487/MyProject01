@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager.xml",
+        "source": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\layout\\view_pager.xml"
+    },
+    {
+        "merged": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\build\\intermediates\\res\\merged\\debug\\layout\\one_image.xml",
+        "source": "E:\\stop\\android studio project\\MyProject01\\ZoomImageView\\src\\main\\res\\layout\\one_image.xml"
+    }
+]

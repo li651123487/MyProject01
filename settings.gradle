@@ -1,0 +1,3 @@
+include ':app', ':zoomimageview', ':ZoomImageViewTest', ':TouchImageViewTest', ':CallBack', ':RecyclerViewDemo', ':myapplication', ':animator', ':MyMap', ':MyMap1', ':MVPDemo2', ':LoginDemo', ':LoginDemo1', ':exam_3test', ':Exam_3te', ':MyFrame01', 'SCANZXing', 'ZXingStudy', 'OkHttpUtils', 'OkhttpUtils', ':propertyanimatordemo', 'MVCdemo', 'MVPdemo', 'MVPTest', 'MVPDemo1', 'Exam_3', ':library', 'MyFrame'
+include ':TouchImageView'
+include ':ZoomImageView'

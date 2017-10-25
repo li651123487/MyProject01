@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CallBack/CallBack.iml" filepath="$PROJECT_DIR$/CallBack/CallBack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam_3/Exam_3.iml" filepath="$PROJECT_DIR$/Exam_3/Exam_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam_3te/Exam_3te.iml" filepath="$PROJECT_DIR$/Exam_3te/Exam_3te.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginDemo/LoginDemo.iml" filepath="$PROJECT_DIR$/LoginDemo/LoginDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginDemo1/LoginDemo1.iml" filepath="$PROJECT_DIR$/LoginDemo1/LoginDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCdemo/MVCdemo.iml" filepath="$PROJECT_DIR$/MVCdemo/MVCdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPDemo1/MVPDemo1.iml" filepath="$PROJECT_DIR$/MVPDemo1/MVPDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPDemo2/MVPDemo2.iml" filepath="$PROJECT_DIR$/MVPDemo2/MVPDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPTest/MVPTest.iml" filepath="$PROJECT_DIR$/MVPTest/MVPTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPdemo/MVPdemo.iml" filepath="$PROJECT_DIR$/MVPdemo/MVPdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFrame/MyFrame.iml" filepath="$PROJECT_DIR$/MyFrame/MyFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFrame01/MyFrame01.iml" filepath="$PROJECT_DIR$/MyFrame01/MyFrame01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMap/MyMap.iml" filepath="$PROJECT_DIR$/MyMap/MyMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMap1/MyMap1.iml" filepath="$PROJECT_DIR$/MyMap1/MyMap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProject01.iml" filepath="$PROJECT_DIR$/MyProject01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils/OkHttpUtils.iml" filepath="$PROJECT_DIR$/okhttputils/OkHttpUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewDemo/RecyclerViewDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewDemo/RecyclerViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SCANZXing/SCANZXing.iml" filepath="$PROJECT_DIR$/SCANZXing/SCANZXing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TouchImageView/TouchImageView.iml" filepath="$PROJECT_DIR$/TouchImageView/TouchImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TouchImageViewTest/TouchImageViewTest.iml" filepath="$PROJECT_DIR$/TouchImageViewTest/TouchImageViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZXingStudy/ZXingStudy.iml" filepath="$PROJECT_DIR$/ZXingStudy/ZXingStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZoomImageViewTest/ZoomImageViewTest.iml" filepath="$PROJECT_DIR$/ZoomImageViewTest/ZoomImageViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animator/animator.iml" filepath="$PROJECT_DIR$/animator/animator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam_3test/exam_3test.iml" filepath="$PROJECT_DIR$/exam_3test/exam_3test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/propertyanimatordemo/propertyanimatordemo.iml" filepath="$PROJECT_DIR$/propertyanimatordemo/propertyanimatordemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZoomImageView/zoomimageview.iml" filepath="$PROJECT_DIR$/ZoomImageView/zoomimageview.iml" />
+    </modules>
+  </component>
+</project>
